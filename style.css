@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Georgia;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+#head{
+    height: 70px;
+    width: 100%;
+    background-color: #806BDC;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-top: 25px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.tag{
+    color: white;
+}
+.part-1{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.images{
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+.part-img{
+    width: 100%;
+    
+}
+.table-tag{
+    font-size: 30px;
+}
+.table-tag:hover{
+    color: blue;
+}
+.Shopping-container{
+    background-color:  grey;
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.shop-img{
+    height: 100%;
+    width: 90%;
+}
+.sales{
+    color: white;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+.offer{ 
+    height: 100px;
+    width: 90%;
+    font-size: 30px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: 90px;
+    margin-bottom: 20px;
+}
+.offer-head{
+    border: 1px solid;
+    background-color: tan;
+}
+tr .offer-data{
+    border: 1px solid black;
+}
+
+.part-3{
+    border: 0px solid;
+    padding: 30px;
+    background-color: aliceblue;
+}
+.list{
+    list-style: inside;
+}
+
+.footer{
+    color: white;
+    background-color: black;
+    height: 120px;
+    width: 100%;
+    text-align: center;
+    padding-top: 55px;
+    box-sizing: border-box;
+    margin-bottom: 0px;
+    position: relative;
+
+}
